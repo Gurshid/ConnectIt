@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/architpanwar/AndroidStudioProjects/connected/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/res/merged/debug/mipmap-hdpi/photoback.png",
+        "source": "/Users/architpanwar/AndroidStudioProjects/connected/app/src/main/res/mipmap-hdpi/photoback.png"
+    }
+]

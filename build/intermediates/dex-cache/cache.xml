@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_f9922b08118a313c67cf55d6b82755e40888c7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_5b046be3a4183ff3f1632d983782d0e92e015646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_ec3c5f3bd5843340b529664da44f40144e321235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_f41af3a2356932283f92634d2613f0e51b9d2e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_03aeab0a55348a2a497168fe5537beaa10ee9191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_d01cf4c0b6d91020a945f253e7dcf0cf7c393821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bc36926dadc3c19e2720534b54ac417143fefd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_f81a0fbee65f9d94b03ae9aefc45fab6fff565ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f21cd628ef85c35105a2a0e719d11dc4f89ae76">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.1_5a228c4a0fa91a55fc9aef2d35d957d15faba7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_67687b0bb96ea04f19fbb930b5a6f16ed6c51d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_d1d4bba7e563fd4db4e1c9c9abfb41cdbb23fa22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_1fe4d9958ccccb29c8925fc2d95e8071ea5706c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_dd63dd1fea8c0e0b78e61aad3192cddf74dcc2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_44fcb8de8b2d82f433c7fc0766d80aadc6077cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_6e875ecae4c6c36ecb2a83080ed53ac926126218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_b6c58c895f392de1923305f71c5f362e6b0b798a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_b75d9a8ed667d9332ba9ad010854cd8ebe591630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_5ed3bccc15e2aeef466eb590dd2e96df921d604c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_d071a6f8bed143d8a03cc9477884c25a26f953d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_ca2538f6d1b421e6c8cac9985e10e550358d6e64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_42db5e699482f32aec00b198c7511444bf20f457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_905e9be2dec758fa7d2dd1ac4941239da7250c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_69ad41f78d5f8736e61b042d22da1ef7c887eed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_a5e5bec3cd36c6b71bd7b8fdad8a7557798a7e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_1745bb4d26a8809e3474abd8172fc3fec83c62a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.2.1_998d600e2ad064c03075c880679e773b85a8d383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_e845582b650f95fc1ddbae5509e7becb0bbf37ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_9dedcf7f813698df15f3b875f181d5e0b295755a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_4df6f8471c9f4b6c3e5350f3477932e7e606941e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_f51ca861760eb7ec11a0aad4c7442f1911933e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_66357d9ce6cd413356e6c22c16dfa68cdb742bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_2e32ce76c07a7c1c85b2d9e7b5a7d8a95ac6675a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_70ba9f9938ceb526a4854354eeaae0d1231c4a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_aa200b7932ccb45000cae46309fdc89d74fac971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_6a32c84a4c3861862931fda73dc01ed82b535ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/glide-3.6.1_cf83b3e77037d726403b56a957f40582b58ec25d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/architpanwar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/architpanwar/AndroidStudioProjects/connected/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_3e58f9a101b93190ec87cceb64275b5c91c73e3b.jar" />
+    </item>
+
+</items>
